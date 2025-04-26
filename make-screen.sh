@@ -1,4 +1,5 @@
 #!/bin/bash
+# call with sudo
 
 tmux new -s hacker
 tmux send-keys "termsaver clock" C-m

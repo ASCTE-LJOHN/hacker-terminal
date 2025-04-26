@@ -8,4 +8,5 @@
 
 # check for & install nms
 
-chmod +x infinite-secrets.sh
+# setup file permissions
+chmod +x *.sh
