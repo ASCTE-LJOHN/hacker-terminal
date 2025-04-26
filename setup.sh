@@ -7,3 +7,5 @@
 # check for & install termsaver
 
 # check for & install nms
+
+chmod +x infinite-secrets.sh
